@@ -1,0 +1,4 @@
+rencana 
+
+-membuat barang masuk 
+-cek harga
